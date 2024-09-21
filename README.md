@@ -1,7 +1,7 @@
 # nbclassic-collapsible-headings
 Allows notebook to have collapsible sections, separated by headings
 
-## Installation
+## Installation
 
 ```
 pip install nbclassic-collapsible-headings
