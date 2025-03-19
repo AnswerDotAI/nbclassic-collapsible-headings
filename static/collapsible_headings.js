@@ -595,6 +595,7 @@
 	 *  @return {Promise}
 	 */
 	function patch_Tooltip () {
+		return Promise.resolve();
 		if (Number(Jupyter.version[0]) >= 5) {
 			return Promise.resolve();
 		}
