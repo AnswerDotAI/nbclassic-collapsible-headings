@@ -15,7 +15,7 @@ long_description = open('README.md', encoding="utf8").read()
 
 setuptools.setup(
     name = 'nbclassic-collapsible-headings',
-    version = '0.0.3',
+    version = '0.0.4',
     description = 'Allows notebook to have collapsible sections, separated by headings',
     keywords = 'notebook',
     author = 'Nbextensions team',
